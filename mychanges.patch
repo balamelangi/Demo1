@@ -1,0 +1,44 @@
+From b9a3fa33764edf21a5561a78452757c4b4e1122e Mon Sep 17 00:00:00 2001
+From: balamelangi <bala.melangi@gmail.com>
+Date: Mon, 10 Dec 2018 13:14:45 +0530
+Subject: [PATCH 1/2] Added one extra line in 1.txt
+
+---
+ 1.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/1.txt b/1.txt
+index c63a891..a995fe9 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1 +1,2 @@
+-Hi This deleted just.txt and created 1.txt
+\ No newline at end of file
++Hi This deleted just.txt and created 1.txt
++Added the one line in 1.txt
+-- 
+2.11.0.windows.1
+
+
+From 97db1994755e68b20e715e1df27f28d22106e787 Mon Sep 17 00:00:00 2001
+From: balamelangi <bala.melangi@gmail.com>
+Date: Mon, 10 Dec 2018 13:16:28 +0530
+Subject: [PATCH 2/2] I edited 4th line in venkat.txt file
+
+---
+ Venkat.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Venkat.txt b/Venkat.txt
+index a7748f0..72e424f 100644
+--- a/Venkat.txt
++++ b/Venkat.txt
+@@ -1,4 +1,4 @@
+ Hi anna.
+ this is from github
+ This is BALA with SURESH.
+-Hi.
++This 4th line.
+-- 
+2.11.0.windows.1
+
