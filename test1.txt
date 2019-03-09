@@ -1,1 +1,3 @@
 This new file from test branch
+.
+Adding this line aswell.
