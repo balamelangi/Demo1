@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Hi This deleted just.txt and created 1.txt
 Added the one line in 1.txt
 This here to see third commit.
+=======
+Hi This deleted just.txt and created 1.txt
+>>>>>>> 30ebbee53497d8cce489c429a78cb5dd6e228220
 Here we test the patch.
 Here I added new line in b1.
 Here we add the new for git rebase.
