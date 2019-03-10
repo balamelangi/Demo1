@@ -1,3 +1,4 @@
 Hi This deleted just.txt and created 1.txt
 Here we test the patch.
 Here I added new line in b1.
+Here we add the new for git rebase.
